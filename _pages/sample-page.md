@@ -18,3 +18,5 @@ This is an example page. It's different from a blog post because it will stay in
 <blockquote>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</blockquote>
 As a new WordPress user, you should go to <a href="http://create40/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!
 GitApi Test: 02.06.2016 12:57:22
+
+GitApi Test: 02.06.2016 12:59:19
